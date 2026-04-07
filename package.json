@@ -1,0 +1,20 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Auth backend with Node.js and MongoDB",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.4.1",
+    "dotgitignore": "^2.1.0",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.3.3",
+    "morgan": "^1.10.1"
+  }
+}
