@@ -74,7 +74,6 @@ Role-based Authorization
 Password Reset (Email)
 OAuth (Google Login)
 
-
 👨‍💻 Author
 
 Ishan Tiwari
